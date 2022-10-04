@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fatihgr
-- 👀 I’m interested in Javascript, Python
+- 👀 I’m interested in Javascript, Python, HTML, CSS
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me fatihaytuggor@gmail.com
